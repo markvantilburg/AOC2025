@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-class ValueCalculator
+class p1b
 {
     static void Main()
     {
@@ -104,4 +104,5 @@ class ValueCalculator
         
         return passes;
     }
+
 }
