@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-class ValueCalculator
+class p1a
 {
     static void Main()
     {
