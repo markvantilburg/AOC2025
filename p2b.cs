@@ -37,7 +37,7 @@ public class p2b
         }
 
         int len = i.Length;
-        for (int parts = 2; parts <= 9; parts++)
+        for (int parts = 2; parts <= len; parts++)
         {
             if (len % parts != 0) continue;
             int partLen = len / parts;
@@ -71,3 +71,4 @@ public class p2b
         return true;
     }
 }
+
