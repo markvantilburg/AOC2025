@@ -7,4 +7,4 @@
 //new p4a().Main();
 //new p4b().Main();
 //new p5a().Main();
-new p5b().Main();
+new aoc2025.p6a().Main();
