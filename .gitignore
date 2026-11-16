@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/obj/Debug/net10.0
+/obj/Debug/net11.0
+/.vs/aoc2025.slnx
+/obj
