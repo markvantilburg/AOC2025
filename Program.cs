@@ -8,4 +8,4 @@
 //new p4b().Main();
 //new p5a().Main();
 //new aoc2025.p6a().Main();
-aoc2024.p1a.solve1();
+aoc2024.p1b.solve1();
